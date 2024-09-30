@@ -18,6 +18,6 @@ Sample input and output 2:
 '''
 total_age = int(input())
 a = (total_age - 10) // 3
-print(a)       # Age of player X
-print(a)       # Age of player Y
-print(a + 10)  # Age of player Z
+print(a)      
+print(a)      
+print(a + 10) 
